@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(12, 18, 66);
+    text-align: center;
+
+}
+
+.card {
+    background-color: beige;
+    width: 90vw;
+    height: 70vh;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-radius: 20px;
+
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+ul li {
+    list-style: none;
+    display: flex;
+
+
+}
